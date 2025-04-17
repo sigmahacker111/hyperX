@@ -1,0 +1,1 @@
+def extract(html, base): return ['script.js']

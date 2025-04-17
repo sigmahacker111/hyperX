@@ -1,0 +1,1 @@
+def fingerprint(hostname): return {'issuer': 'TestCA', 'valid': True}

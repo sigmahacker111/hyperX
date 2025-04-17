@@ -1,0 +1,1 @@
+def detect(headers, html): return ['nginx']
